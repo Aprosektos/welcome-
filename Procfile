@@ -1,1 +1,1 @@
-worker node zivo.js
+worker: node zivo.js
