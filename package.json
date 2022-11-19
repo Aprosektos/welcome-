@@ -1,0 +1,15 @@
+{
+  "name": "ZivoCOde-welcome-bot",
+  "version": "0.0.1",
+  "description": "Zivo Çok Tokenli Welcome Bot",
+  "main": "zivo.js",
+  "scripts": {
+    "start": "node zivo.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "ffmpeg": "0.0.4",
+    "opusscript": "^0.0.8",
+    "node-opus": "^0.3.3"
+  }
+}
