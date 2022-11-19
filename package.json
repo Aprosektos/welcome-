@@ -6,11 +6,10 @@
   "scripts": {
     "start": "node zivo.js"
   },
-  "dependencies": {
-"@discordjs/opus": "^0.5.3", 
+  "dependencies": { 
     "discord.js": "^12.5.3",
     "ffmpeg": "0.0.4",
-    "opusscript": "^0.0.8",
-    "node-opus": "^0.3.3"
+    "opusscript": "^0.0.8"
+ 
   }
 }
